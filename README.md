@@ -1,0 +1,1 @@
+This excell spreadsheet contains the supporting dataset for “Waterfalls alter reach-scale fluvial erosion rates: Evidence from field data and process modeling”, including waterfall, reach-scale and basin-averaged metrics, erosion rates, and pebble count data.
